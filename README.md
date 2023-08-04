@@ -1,15 +1,8 @@
-<p align="center">
-  <a href="https://muhammadhasnain100.io">
-    <img src="https://i.gifer.com/QWc9.gif" alt="MasterHead" />
-  </a>
-</p>
-
+![logo](https://i.gifer.com/QWc9.gif)
 <h1 align="center">Hi 👋, I'm muhammad hasnain</h1>
 <h3 align="center">🚀 Let's Train Some Neural Networks! 🧠💪</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhasnain100&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhasnain100" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadhasnain100" alt="muhammadhasnain100" /></a> </p>
 
 - 🔭 I’m currently working on **large language models**
 
