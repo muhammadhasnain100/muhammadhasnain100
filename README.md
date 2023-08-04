@@ -1,4 +1,9 @@
-[![MasterHead](https://i.gifer.com/QWc9.gif)](https://muhammadhasnain100.io)
+<p align="center">
+  <a href="https://muhammadhasnain100.io">
+    <img src="https://i.gifer.com/QWc9.gif" alt="MasterHead" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm muhammad hasnain</h1>
 <h3 align="center">🚀 Let's Train Some Neural Networks! 🧠💪</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
