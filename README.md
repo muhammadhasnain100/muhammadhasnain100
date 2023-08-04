@@ -1,7 +1,7 @@
 
 <!-- Cover Image -->
 <div align="center" style="width: 70%;">
-  <img src="https://github.com/muhammadhasnain100/muhammadhasnain100/blob/main/github_image.gif" alt="Logo" style="width: 100%;" />
+  <img src="https://github.com/muhammadhasnain100/muhammadhasnain100/blob/main/new_image.gif" alt="Logo" style="width: 100%;" />
 </div>
 
 
